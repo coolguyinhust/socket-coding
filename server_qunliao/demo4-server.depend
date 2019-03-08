@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1551764243 source:c:\users\kaixin\desktop\duplex-talk\demo4-server\main.c
+	<winsock.h>
+	<stdio.h>
+	<string.h>
+	<process.h>
+	<pthread.h>
+
+1552046610 source:c:\users\kaixin\desktop\duplex-talk_qunliao\server_qunliao\main.c
+	<WinSock2.h>
+	<process.h>
+	<stdlib.h>
+	"ClientLinkList.h"
+
+1552045368 c:\users\kaixin\desktop\duplex-talk_qunliao\server_qunliao\clientlinklist.h
+	<WinSock2.h>
+	<stdio.h>
+
+1552045410 source:c:\users\kaixin\desktop\duplex-talk_qunliao\server_qunliao\clientlinklist.c
+	"ClientLinkList.h"
+

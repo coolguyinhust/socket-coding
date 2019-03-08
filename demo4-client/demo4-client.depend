@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1551764311 source:c:\users\kaixin\desktop\duplex-talk\demo4-client\main.c
+	<winsock.h>
+	<process.h>
+	<stdio.h>
+	<string.h>
+	<pthread.h>
+
